@@ -7,6 +7,3 @@ terraform {
   }
 }
 
-provider "aviatrix" {
-  # Configuration options
-}
